@@ -3,3 +3,6 @@
 
 ## Exercises
 - Exercises about machine learning
+
+## References
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
